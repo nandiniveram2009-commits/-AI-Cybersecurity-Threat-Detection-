@@ -13,17 +13,7 @@ End-to-End AI Network Intrusion &amp; Zero-Day Anomaly Detection System built wi
 
 ---
 
-## GitHub Repository & Project Description
 
-- **Repository Name**: `AI-Cybersecurity-Threat-Detection`
-- **Short GitHub "About" Description** *(Copy-paste into the GitHub repo sidebar)*:
-  > End-to-End AI Network Intrusion & Zero-Day Anomaly Detection System built with Python & Scikit-Learn (Hybrid Random Forest + Isolation Forest) on NSL-KDD/CICIDS telemetry with automated MITRE ATT&CK SOC alert triage.
-- **Extended Project Description** *(For Resume / LinkedIn / Portfolio Header)*:
-  > An industry-aligned Machine Learning Security Operations Center (SOC) pipeline that detects both known multi-vector cyber attacks (SYN Flood DoS, SSH Brute Force, Port Scans) and unseen zero-day data exfiltration anomalies. The system engineers behavioral network flow features, fuses supervised Random Forest probabilities with unsupervised Isolation Forest anomaly scores, maps incidents to MITRE ATT&CK techniques, and exports prioritized SOC alert queues alongside 300-DPI evaluation visualizations.
-- **GitHub Topics / Tags**:
-  `cybersecurity` `machine-learning` `intrusion-detection-system` `anomaly-detection` `isolation-forest` `random-forest` `soc-analyst` `mitre-attack` `scikit-learn` `python` `network-security`
-
----
 
 ## Table of Contents
 
