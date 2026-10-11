@@ -126,5 +126,5 @@ This project solves these challenges by pairing **cybersecurity domain feature e
 
 ## Authors
 
-* **GitHub:** [nandiniverma](https://github.com)
-* **LinkedIn:** [NandiniVerma](https://linkedin.com)
+* **GitHub:** [nandiniverma2009](https://github.com)
+* **LinkedIn:** [Nandini Verma](https://linkedin.com)
